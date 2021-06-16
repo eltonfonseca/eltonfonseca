@@ -12,3 +12,5 @@
 <a href="https://eltonjuniorfonseca.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
 [![Elton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eltonfonseca&show_icons=true&theme=tokyonight)](https://github.com/eltonfonseca)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonfonseca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
