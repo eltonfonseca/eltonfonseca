@@ -4,7 +4,7 @@
 - 🌱 Learning more about Microsservices, Cloud Native and Software Engineering.
 - 💬 Ask me about Docker, AWS Cloud, Software Architecture.
 - 📚 I like to write about technology on [Medium](https://eltonjuniorfonseca.medium.com/).
-- 🇧🇷 I from Minas Gerais, Brazil.
+- 🇧🇷 I'm from Minas Gerais, Brazil.
 
 ### 🤙 Contact me
 
