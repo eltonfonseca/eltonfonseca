@@ -5,6 +5,7 @@
 - 💬 Ask me about Docker, AWS Cloud, Software Architecture.
 - 📚 I like to write about technology on [Medium](https://eltonjuniorfonseca.medium.com/).
 - 🇧🇷 I'm from Minas Gerais, Brazil.
+- :latin_cross: Follower of Jesus Christ
 
 ### 🤙 Contact me
 
