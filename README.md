@@ -1,6 +1,6 @@
 ### Hey, I'm Elton Fonseca! 👋
 
-- 👨🏻‍💻 Senior Software Engineer at [Petlove](https://github.com/petlove).
+- 👨🏻‍💻 Senior Software Engineer.
 - 🌱 Learning more about Microsservices, Cloud Native and Software Engineering.
 - 💬 Ask me about Docker, AWS Cloud, Software Architecture.
 - 📚 I like to write about technology on [Medium](https://eltonjuniorfonseca.medium.com/).
